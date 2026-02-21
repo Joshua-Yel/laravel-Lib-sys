@@ -116,7 +116,16 @@ Follow these instructions to get the project up and running on your local machin
 
 ## Screenshots
 
-_(Please add your screenshots here for List, Add, and Edit pages as required for the submission.)_
+<img width="1920" height="957" alt="lib-sys test_books_search=" src="https://github.com/user-attachments/assets/b024d678-83bb-4ee3-b86b-a3f60292b2cb" />
+
+<img width="1920" height="957" alt="lib-sys test_books_create" src="https://github.com/user-attachments/assets/acc90153-4ef4-49a2-83fd-c8662fce0601" />
+<img width="1920" height="957" alt="lib-sys test_books" src="https://github.com/user-attachments/assets/238ccd7f-8f59-49dd-9735-b7a899edd126" />
+<img width="1920" height="957" alt="lib-sys test_books_1_edit" src="https://github.com/user-attachments/assets/a5e93ff1-2566-45fa-9c3a-82344a144892" />
+<img width="1920" height="957" alt="lib-sys test_books_search=Cashflow" src="https://github.com/user-attachments/assets/e3b1032d-1762-46ea-aa66-a78b268bb5ed" />
+<img width="1913" height="1029" alt="Screenshot 2026-02-21 234120" src="https://github.com/user-attachments/assets/18e11ab1-d5a9-474b-a24e-64d0ecd761eb" />
+<img width="1920" height="957" alt="lib-sys test_books (1)" src="https://github.com/user-attachments/assets/2ca4cc6d-83fa-462b-af32-dbb56f10c25c" />
+
+
 
 ### Book List (with Search and Pagination)
 
